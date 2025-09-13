@@ -30,7 +30,6 @@ do
 
         Console.BackgroundColor = ConsoleColor.Red;
         Console.ForegroundColor = ConsoleColor.Black;
-
     }
     catch (Exception ex)
     {
