@@ -31,7 +31,7 @@ do
         {
             for (int j = 0; j < n; j++)
             {
-                Console.Write(matrix[i, j].ToString().PadLeft(4));
+                Console.Write(matrix[i, j].ToString().PadRight(6));
             }
             Console.WriteLine();
         }
